@@ -1,4 +1,4 @@
-require 'rails'
+#require 'rails'
 if Rails.version.to_f < 3.0
   require 'cucumber/rails2'
 else
